@@ -1,7 +1,6 @@
-#  TWRP Device Tree for Xiaomi 12 Lite (taoyao)
+#  TWRP Device Tree for Xiaomi 11 Lite NE (LISA)
 
-The Xiaomi 12 Lite (codenamed "taoyao") is a High-range smartphone from Xiaomi. It was announced in August 2022 and released in July 11 2022.
-
+The  Xiaomi 11 Lite NE (LISA) is a High-range smartphone from Xiaomi. 
 ## Device specifications
 
 | Feature                 | Specification                                                                  |
@@ -25,23 +24,21 @@ The Xiaomi 12 Lite (codenamed "taoyao") is a High-range smartphone from Xiaomi. 
 
 ## Device picture
 
-![Xiaomi 12 Lite ](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-12-lite-2.jpg)
+![Xiaomi 11 Lite 5G NE ](https://videos.demoup.com/360p/2021/0916/179594-1631786818797-0-snap.jpg)
 
 
 ## Features
 
 Works:
 
-- ADB
-- Decryption of /data
-- Screen brightness settings
-- Correct screenshot color
-- MTP
-- Flashing (opengapps, roms, images and so on)
-- Backup/Restore
-- USB OTG
-- Touch
-
-Bugs:
-
-- Vibration 
+ - ADB
+ - Decryption of /data
+ - MTP
+ - Flashing (opengapps, roms, images and so on)
+ - Backup/Restore
+ - USB OTG
+ - CPU temperature
+ - Vibration
+ - A/B partition functions
+ - ADB SIDELOAD
+ - SD-CARD
