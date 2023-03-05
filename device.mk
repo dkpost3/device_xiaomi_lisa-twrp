@@ -134,6 +134,3 @@ PRODUCT_PACKAGES += \
     qcom_decrypt \
     qcom_decrypt_fbe
 
-#Properties
-TW_OVERRIDE_SYSTEM_PROPS := \
-    "ro.build.date.utc;ro.build.fingerprint=ro.system.build.fingerprint;ro.build.version.incremental"
